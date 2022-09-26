@@ -5,17 +5,17 @@ Comunicação no Exterior
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciência da Computação - PUCMINAS Unidade Praça da Liberdade
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - André Fazito Morais
+> - Gabriel Sanches Rezende
+> - Ji Xinyi
+> - Lucas Viana Ferreira
+> - Sophia Damasceno Satuf
+> - Yurajyánay Correia Andaluz
 
 # Estrutura do Documento
 
@@ -56,27 +56,13 @@ Comunicação no Exterior
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Atualmente, com a crescente globalização, viagens internacionais se tornam cada vez mais comuns e acessíveis, com isso, mostra-se necessário o conhecimento de diversas línguas e culturas para fins comunicativos. Com isto em mente, escolas de todo o planeta adotam o ensino de línguas em suas grades. Porém, é nítida a rigidez no método de ensino, gerando grande insatisfação em estudantes. 
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Após realizadas as entrevistas qualitativas, o grupo pôde notar a dificuldade na eficácia e regularidade de estudos de línguas estrangeiras, que atendam demandas atuais de aprendizagem. Foi percebido o fato de que existem diversas dificuldades e motivos para aprender línguas.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto visa auxiliar e orientar todos os indivíduos com a aprendizagem de idiomas, de forma a manter o foco e a consistência, tornando a experiência mais leve e eficaz. Assim, o produto será centrado na integração entre usuários, garantindo a prática de línguas em comunidade.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -89,35 +75,16 @@ Comunicação no Exterior
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+De acordo com o artigo “Dificuldades de aprendizagem da língua Inglesa no I Ciclo do Ensino Secundário: 7ª, 8ª e 9ª classe”, de Alberto Mahula Francisco, as principais causas de desinteresse e/ou dificuldade no aprendizado de idiomas são a ansiedade no momento das aulas, falta de motivação e maus hábitos.
+  
+O autor Marcos Venicio Esper, em seu relato de pesquisa “Crianças com deficiência e aprendizagem de línguas estrangeiras: contribuições e reflexões”, afirma que interação imediata e caráter ativo e interativo no processo de ensino é extremamente importante para manter o caráter dinâmico, acessibilidade e diversidade no aprendizado.
+  
+Com isso, vemos a necessidade de efetivar meios de ensino que sejam mais flexíveis e que possam  instruir e auxiliar no aprendizado do aluno de forma menos maçante. É de suma importância que o grupo tenha em mente os aspectos citados para desenvolver uma aplicação web que amenizará as dores dos estudantes de idiomas.
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
+Em decorrência das entrevistas realizadas pelo grupo, o público-alvo do projeto se baseia em jovens adultos, em sua maioria universitários com interesse em aprender idiomas de uma forma mais lúdica e menos cansativa.
+ 
 > **Links Úteis**:
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
