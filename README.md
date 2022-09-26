@@ -1,18 +1,22 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8567760&assignment_repo_type=AssignmentRepo)
 # Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+
+O projeto visa auxiliar e orientar todos os indivíduos com a aprendizagem de idiomas, de forma a manter o foco e a consistência, tornando a experiência mais leve e eficaz. Assim, o produto será centrado na integração entre usuários, garantindo a prática de línguas em comunidade.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* André Fazito
+* Gabriel Sanches
+* Ji Xinyan
+* Lucas Ferreira
+* Sophia Satuf
+* Yurajyánay Correia
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Rommel
+* Cleiton
+* Luciana
 
 ## Instruções de utilização
 
