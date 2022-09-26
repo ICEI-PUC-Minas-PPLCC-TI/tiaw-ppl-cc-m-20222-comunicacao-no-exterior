@@ -432,7 +432,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1415-69542021000100003#:~:text=Adquirir%20uma%20segunda%20l%C3%ADngua%2C%20historicamente,o%20professor%2C%20memorizar%20vocabul%C3%A1rio)
+
+https://www.webartigos.com/artigos/dificuldades-de-aprendizagem-da-lingua-inglesa-no-i-ciclo-do-ensino-secundario-7a-8a-e-9a-classe/169609
 
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
