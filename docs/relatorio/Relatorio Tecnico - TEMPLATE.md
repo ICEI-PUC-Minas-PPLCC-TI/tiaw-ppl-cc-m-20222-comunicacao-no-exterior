@@ -56,6 +56,8 @@ Os membros do grupo são:
 
 Atualmente, com a crescente globalização, viagens internacionais se tornam cada vez mais comuns e acessíveis, com isso, mostra-se necessário o conhecimento de diversas línguas e culturas para fins comunicativos. Com isto em mente, escolas de todo o planeta adotam o ensino de línguas em suas grades. Porém, é nítida a rigidez no método de ensino, gerando grande insatisfação em estudantes. 
 
+Sendo assim, é nítida a necessidade de adoção de metodologias modernas e flexíveis para aprendizagem eficaz e que não desgasta estudantes de línguas. Portanto, este trabalho visará a solução desta demanda a partir de conhecimentos de desenvolvimento de Interfaces e Aplicações Web.
+
 ## Problema
 
 Após realizadas as entrevistas qualitativas, o grupo pôde notar a dificuldade na eficácia e regularidade de estudos de línguas estrangeiras, que atendam demandas atuais de aprendizagem. Foi percebido o fato de que existem diversas dificuldades e motivos para aprender línguas.
@@ -174,103 +176,61 @@ Com funções interativas, baseado em design intuitivo e divertido, a interface 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ao iniciar um novo projeto é necessário medir, de alguma forma, o nível de compromisso que é demandado de cada indivíduo, ou de um time. Com isso em mente, a equipe se baseou no modelo de trabalho do Scrum, para não somente conseguir visualizar uma lista de requisitos, mas também atribuir, distribuir e planejar configurações de designação de tarefas que priorizasse não somente agilidade, mas o melhor aproveitamento dos talentos de cada membro da equipe.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+ A equipe buscou adaptar o Scrum porque acredita que ajustes são necessários ao se entrar em contato com um modelo novo, mas também por acreditar que o Scrum pode ser potencializado ao ser visto como uma ferramenta que trabalha em favor da equipe. Dessa forma, algumas cerimônias do Scrum, como planejamento e revisão da sprint, foram priorizadas em detrimento de outras, como as “daily”. 
+ 
+Apesar de não ter realizado uma “daily” diariamente, como sugere o Scrum, a equipe buscou manter um canal de comunicação aberto, claro e sincero, visando como resultado alinhamento do andamento do projeto, das tarefas individuais, trocas de ideias e eventuais tarefas que poderiam em situação de dependência com outras. Para nosso alinhamento e comunicação utilizamos Discord, Whatsapp e Trello.
+
+ No whatsapp realizamos trocas rápidas de alinhamento, no Discord fizemos reuniões virtuais para executar tarefas e discutir ideias, e no Trello estabelecemos nosso backlog. Ainda no Trello utilizamos um template de quadro Kanban para traduzir os “materiais entregáveis”, que foram passados pelo professor, para tarefas objetivas e executáveis no backlog. Distribuímos as tarefas às pessoas a quem elas fossem atribuídas, o que era previamente acordado em equipe. E por fim, definimos a dificuldade de cada tarefa usando um sistema de código baseado em cores. Para definir dificuldade utilizamos alguns critérios, dentre eles: data de entrega, esforço e tempo.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+André Fazito Morais - Processo de Design Thinking.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Gabriel Sanches Rezende - Processo de Design Thinking, Documentação do Projeto, Repositório GitHub.
+
+Ji Xinyi - Processo de Design Thinking, Documentação do Projeto.
+
+Lucas Viana Ferreira - Processo de Design Thinking, Documentação do Projeto, Apresentação.
+
+Sophia Damasceno Satuf - Processo de Design Thinking, Documentação do Projeto.
+
+Yurajyánay Correia Andaluz - Processo de Design Thinking, Documentação do Projeto, Apresentação.
 
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVPT6fBs0=/ | 
+|Repositório de código | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PPLCC-TI/teams/comunicacao-no-exterior | 
+|Hospedagem do site | Heroku |  https://herokuapp.com | 
+|Protótipo Interativo | Figma | https://www.figma.com/proto/s2AlOPvbXY4UcJ9m20rTKL/Untitled?node-id=0%3A1 | 
+|Editor de Código | Visual Studio Code | https://code.visualstudio.com/ | 
+|Organização Kanban | Trello | https://trello.com/b/RgZd5b5s/quadro-kanban | 
+|Comunicação/Reuniões | Discord | https://discord.com/ | 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ A ferramenta de controle de versão adotada no projeto foi o
+ [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
+ foi utilizado para hospedagem do repositório `upstream`.
+ 
+ O projeto segue a seguinte convenção para o nome de branchs:
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+- `master`: versão estável já testada do software
+- `unstable`: versão já testada do software, porém instável
+- `testing`: versão em testes do software
+- `dev`: versão de desenvolvimento do software
+ 
+Quanto à gerência de issues, o projeto adota a seguinte convenção para
+etiquetas:
+
+- `bugfix`: uma funcionalidade encontra-se com problemas
+- `enhancement`: uma funcionalidade precisa ser melhorada
+- `feature`: uma nova funcionalidade precisa ser introduzida
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
