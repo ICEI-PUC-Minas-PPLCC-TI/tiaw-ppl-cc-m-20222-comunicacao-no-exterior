@@ -162,11 +162,11 @@ Com funções interativas, baseado em design intuitivo e divertido, a interface 
 
 ### Cadastro:
 
-![Cadastro](images/0002.jpg)
+![Cadastro](images/0003.jpg)
 
 ### Login:
 
-![Login](images/0003.jpg)
+![Login](images/0002.jpg)
 
 ### Seleção de Línguas:
 
@@ -184,7 +184,7 @@ Com funções interativas, baseado em design intuitivo e divertido, a interface 
 
 ![Perfil](images/0008.jpg)
 
-### Sobre
+### Sobre:
 
 ![Perfil](images/0004.jpg)
 
