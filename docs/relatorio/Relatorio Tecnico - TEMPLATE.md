@@ -198,6 +198,10 @@ Com funções interativas, baseado em design intuitivo e divertido, a interface 
 
 ![Perfil](images/0004.jpg)
 
+### Protótipo Interativo
+
+Link: https://www.figma.com/proto/s2AlOPvbXY4UcJ9m20rTKL/Untitled?node-id=0%3A1.
+
 # Metodologia
 
 Ao iniciar um novo projeto é necessário medir, de alguma forma, o nível de compromisso que é demandado de cada indivíduo, ou de um time. Com isso em mente, a equipe se baseou no modelo de trabalho do Scrum, para não somente conseguir visualizar uma lista de requisitos, mas também atribuir, distribuir e planejar configurações de designação de tarefas que priorizasse não somente agilidade, mas o melhor aproveitamento dos talentos de cada membro da equipe.
