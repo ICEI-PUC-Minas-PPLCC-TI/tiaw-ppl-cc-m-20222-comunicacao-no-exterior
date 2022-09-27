@@ -158,31 +158,31 @@ Com funções interativas, baseado em design intuitivo e divertido, a interface 
 
 ### Tela Inicial:
 
-![Exemplo de Wireframe](images/0001.png)
+![Tela Inicial](images/0001.jpg)
 
 ### Cadastro:
 
-![Exemplo de Wireframe](images/wireframe-example.png)
+![Cadastro](images/0002.jpg)
 
 ### Login:
 
-![Exemplo de Wireframe](images/wireframe-example.png)
+![Login](images/0003.jpg)
 
 ### Seleção de Línguas:
 
-![Exemplo de Wireframe](images/wireframe-example.png)
+![Seleção de Línguas](images/0004.jpg)
 
 ### Seleção de Categorias:
 
-![Exemplo de Wireframe](images/wireframe-example.png)
+![Seleção de Ctaegorias](images/0005.jpg)
 
 ### Template de Categorias/Artigos:
 
-![Exemplo de Wireframe](images/wireframe-example.png)
+![Template de Categorias/Artigos](images/0006.jpg)
 
 ### Perfil:
 
-![Exemplo de Wireframe](images/wireframe-example.png)
+![Perfil](images/0007.jpg)
 
 # Metodologia
 
