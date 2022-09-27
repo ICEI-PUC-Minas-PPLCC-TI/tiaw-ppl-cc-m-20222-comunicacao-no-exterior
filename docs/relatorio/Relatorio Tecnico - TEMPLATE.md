@@ -151,7 +151,7 @@ Com funções interativas, baseado em design intuitivo e divertido, a interface 
 
 ## User Flow
 
-![UserFlow](images/User Flow - Lang.Lab.jpg)
+![UserFlow](images/UserFlow.jpg)
 
 
 ## Wireframes
