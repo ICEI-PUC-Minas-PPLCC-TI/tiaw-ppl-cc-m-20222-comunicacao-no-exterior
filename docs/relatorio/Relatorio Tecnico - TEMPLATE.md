@@ -9,13 +9,13 @@ Ciência da Computação - PUCMINAS Unidade Praça da Liberdade
 
 ## Participantes
 
-> Os membros do grupo são: 
-> - André Fazito Morais
-> - Gabriel Sanches Rezende
-> - Ji Xinyi
-> - Lucas Viana Ferreira
-> - Sophia Damasceno Satuf
-> - Yurajyánay Correia Andaluz
+Os membros do grupo são: 
+- André Fazito Morais
+- Gabriel Sanches Rezende
+- Ji Xinyi
+- Lucas Viana Ferreira
+- Sophia Damasceno Satuf
+- Yurajyánay Correia Andaluz
 
 # Estrutura do Documento
 
@@ -54,24 +54,21 @@ Ciência da Computação - PUCMINAS Unidade Praça da Liberdade
 
 # Introdução
 
-## Problema
-
 Atualmente, com a crescente globalização, viagens internacionais se tornam cada vez mais comuns e acessíveis, com isso, mostra-se necessário o conhecimento de diversas línguas e culturas para fins comunicativos. Com isto em mente, escolas de todo o planeta adotam o ensino de línguas em suas grades. Porém, é nítida a rigidez no método de ensino, gerando grande insatisfação em estudantes. 
+
+## Problema
 
 Após realizadas as entrevistas qualitativas, o grupo pôde notar a dificuldade na eficácia e regularidade de estudos de línguas estrangeiras, que atendam demandas atuais de aprendizagem. Foi percebido o fato de que existem diversas dificuldades e motivos para aprender línguas.
 
 ## Objetivos
 
 O projeto visa auxiliar e orientar todos os indivíduos com a aprendizagem de idiomas, de forma a manter o foco e a consistência, tornando a experiência mais leve e eficaz. Assim, o produto será centrado na integração entre usuários, garantindo a prática de línguas em comunidade.
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Especificamente, será relevante citar:
+- Confecção de perfis individuais e customizáveis por cada usuário;
+- Permitir interação entre usuários, com chat privado, compartilhamento de agendas e recomendações de mídias em línguas;
+- Integração de artigos simples, rápidos e lúdicos na língua estrangeira para o acompanhamento do aprendizado;
+- Permitir aos usuários confeccionar suas próprias rotinas flexíveis;
+- Adicionar um sistema de recompensas para aumentar a motivação dos usuários;
 
 ## Justificativa
 
@@ -83,46 +80,18 @@ Com isso, vemos a necessidade de efetivar meios de ensino que sejam mais flexív
 
 ## Público-Alvo
 
-Em decorrência das entrevistas realizadas pelo grupo, o público-alvo do projeto se baseia em jovens adultos, em sua maioria universitários com interesse em aprender idiomas de uma forma mais lúdica e menos cansativa.
- 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Em decorrência das entrevistas realizadas pelo grupo, o público-alvo do projeto se baseia em jovens adultos, em sua maioria universitários com interesse em aprender idiomas de uma forma mais lúdica e menos cansativa. Porém, o design do produto deverá ser pensado de forma inclusiva, possibilitando assim a acessibilidade de diversas faixas etárias.
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Após realizadas as entrevistas qualitativas abrangindo a faixa etária do público-alvo, com estudantes universitários, pode-se observar os principais obstáculos a serem superados para a efetivação leve e divertida da aprendizagem de línguas. Dessa forma, foram confeccionadas personas e especificados requisitos e histórias de usuários.
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+## Personas 
 
-## Personas e Mapas de Empatia
-
-......  COLOQUE AQUI O SEU TEXTO ......
+As personas confeccionadas, suas dores e necessidades são representadas nas figuras a seguir:
 
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+
 
 
 ## Histórias de Usuários
