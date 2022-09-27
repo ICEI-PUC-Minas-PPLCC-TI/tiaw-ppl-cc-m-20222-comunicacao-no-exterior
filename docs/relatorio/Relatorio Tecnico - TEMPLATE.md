@@ -92,7 +92,17 @@ Após realizadas as entrevistas qualitativas abrangindo a faixa etária do públ
 
 As personas confeccionadas, suas dores e necessidades são representadas nas figuras a seguir:
 
+### Persona 1
 
+![UserFlow](images/p1.jpg)
+
+### Persona 2
+
+![UserFlow](images/p2.jpg)
+
+### Persona 3
+
+![UserFlow](images/p3.jpg)
 
 
 
