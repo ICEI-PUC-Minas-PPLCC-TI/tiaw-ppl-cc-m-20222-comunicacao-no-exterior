@@ -340,13 +340,9 @@ etiquetas:
 
 # Referências
 
-http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1415-69542021000100003#:~:text=Adquirir%20uma%20segunda%20l%C3%ADngua%2C%20historicamente,o%20professor%2C%20memorizar%20vocabul%C3%A1rio)
+GUSMÃO, Cristine Martins Gomes, MACHIAVELLI, Josiane Lemos, MENDES, Priscilla Batista, SOARES, Rannieri Araújo Soares, Fóruns de Discussão em Ambientes Virtuais de Aprendizagem: Um Mapeamento Sistemático do seu Uso nos Contextos Brasileiro e Latino-Americano, 31 de julho de 2020.
 
-https://www.webartigos.com/artigos/dificuldades-de-aprendizagem-da-lingua-inglesa-no-i-ciclo-do-ensino-secundario-7a-8a-e-9a-classe/169609
+MEDINA, Rafael Sales, DA SILVA, Ana Paula Couto, MURAI, Fabrício, Análise das Interações Sociais em Comunidades Online de Aprendizado de Idiomas: um estudo de caso no Reddit, 26 de julho de 2018.
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+ESPER, Marcos Vinícius, Crianças com deficiência e aprendizagem de línguas estrangeiras: contribuições e reflexões, São Paulo, 2021.
+
