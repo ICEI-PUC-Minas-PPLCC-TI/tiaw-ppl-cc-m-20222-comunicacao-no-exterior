@@ -5,12 +5,12 @@ O projeto visa auxiliar e orientar todos os indivíduos com a aprendizagem de id
 
 ## Alunos integrantes da equipe
 
-* André Fazito
-* Gabriel Sanches
-* Ji Xinyan
-* Lucas Ferreira
-* Sophia Satuf
-* Yurajyánay Correia
+* André Fazito Morais
+* Gabriel Sanches Rezende
+* Ji Xinyi
+* Lucas Viana Ferreira
+* Sophia Damasceno Satuf
+* Yurajyánay Correia Andaluz
 
 ## Professores responsáveis
 
