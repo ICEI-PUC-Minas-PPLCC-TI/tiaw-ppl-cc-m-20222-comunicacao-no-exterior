@@ -158,7 +158,7 @@ Com funções interativas, baseado em design intuitivo e divertido, a interface 
 
 ### Tela Inicial:
 
-![Exemplo de Wireframe](images/wireframe-example.png)
+![Exemplo de Wireframe](images/0001.png)
 
 ### Cadastro:
 
