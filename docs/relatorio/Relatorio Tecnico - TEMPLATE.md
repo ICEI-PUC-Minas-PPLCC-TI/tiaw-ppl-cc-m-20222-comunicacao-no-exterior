@@ -170,19 +170,23 @@ Com funções interativas, baseado em design intuitivo e divertido, a interface 
 
 ### Seleção de Línguas:
 
-![Seleção de Línguas](images/0004.jpg)
+![Seleção de Línguas](images/0005.jpg)
 
 ### Seleção de Categorias:
 
-![Seleção de Ctaegorias](images/0005.jpg)
+![Seleção de Categorias](images/0006.jpg)
 
 ### Template de Categorias/Artigos:
 
-![Template de Categorias/Artigos](images/0006.jpg)
+![Template de Categorias/Artigos](images/0007.jpg)
 
 ### Perfil:
 
-![Perfil](images/0007.jpg)
+![Perfil](images/0008.jpg)
+
+### Sobre
+
+![Perfil](images/0004.jpg)
 
 # Metodologia
 
