@@ -119,13 +119,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| O site deve conter um sistema de sign up/login | ALTA | 
 |RF-002| O site deve ter uma página de perfil do usuário   | ALTA |
 |RF-003| O site deve ter uma página contendo informações sobre o projeto e grupo   | MÉDIA |
-|RF-002| O site deve conter um sistema de botões para escolher o idioma desejado para a aprendizagem/consulta   | ALTA |
-|RF-002| O site deve conter tópicos de vocabulário para determinadas situações/ambientes   | MÉDIA |
-|RF-002| O site deve ter um sistema de recompensa para o usuário   | MÉDIA |
-|RF-002| O site deve ter recomendações de mídias (Filmes, Séries, Livros, Músicas...) de cada língua   | MÉDIA |
-|RF-002| O site deve dar liberdade do usuário de definir sua rotina   | ALTA |
-|RF-002| o site deve conter artigos rápidos e divertidos de cada língua   | MÉDIA |
-|RF-002| O site deve possuir uma agenda para registrar o estudo de cada dia do usuário   | BAIXA |
+|RF-004| O site deve conter um sistema de botões para escolher o idioma desejado para a aprendizagem/consulta   | ALTA |
+|RF-005| O site deve conter tópicos de vocabulário para determinadas situações/ambientes   | MÉDIA |
+|RF-006| O site deve ter um sistema de recompensa para o usuário   | MÉDIA |
+|RF-007| O site deve ter recomendações de mídias (Filmes, Séries, Livros, Músicas...) de cada língua   | MÉDIA |
+|RF-008| O site deve dar liberdade do usuário de definir sua rotina   | ALTA |
+|RF-009| o site deve conter artigos rápidos e divertidos de cada língua   | MÉDIA |
+|RF-010| O site deve possuir uma agenda para registrar o estudo de cada dia do usuário   | BAIXA |
 
 ### Requisitos não Funcionais
 
@@ -133,7 +133,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O site deve ser responsivo | MÉDIA | 
 |RNF-002| Deve ser utilizado o git para versionamento do projeto | ALTA | 
-|RNF-002| O site deve utilizar da Stack HTML, CSS e JS para construção | MÉDIA | 
+|RNF-003| O site deve utilizar da Stack HTML, CSS e JS para construção | MÉDIA | 
 
 
 ## Restrições
@@ -156,23 +156,33 @@ Com funções interativas, baseado em design intuitivo e divertido, a interface 
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+### Tela Inicial:
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+![Exemplo de Wireframe](images/wireframe-example.png)
 
+### Cadastro:
+
+![Exemplo de Wireframe](images/wireframe-example.png)
+
+### Login:
+
+![Exemplo de Wireframe](images/wireframe-example.png)
+
+### Seleção de Línguas:
+
+![Exemplo de Wireframe](images/wireframe-example.png)
+
+### Seleção de Categorias:
+
+![Exemplo de Wireframe](images/wireframe-example.png)
+
+### Template de Categorias/Artigos:
+
+![Exemplo de Wireframe](images/wireframe-example.png)
+
+### Perfil:
+
+![Exemplo de Wireframe](images/wireframe-example.png)
 
 # Metodologia
 
