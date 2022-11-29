@@ -1,7 +1,6 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-TESTE
 Lang.Lab
 
 `CURSO` 
