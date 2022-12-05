@@ -273,7 +273,7 @@ etiquetas:
   
   As ferramentas usadas foram replit para organização, github como repositório, visual studio code como ferramenta de desenvolvimento.
   
-  ![Novo Userflow](docs/relatorio/images/userflownew.jpg)
+  ![Novo Userflow](images/userflownew.jpg)
 
 ## Arquitetura da solução
 
