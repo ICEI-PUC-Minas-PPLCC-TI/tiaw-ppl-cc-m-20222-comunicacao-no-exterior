@@ -300,10 +300,11 @@ etiquetas:
 
   Os cenários utilizados para testes foram: 
 - Verificar se, após inseridas informações na página de edição de perfil, elas salvam e aparecem corretas na página do perfil. 
-- Navegação pela NavBar de mídias recomendadas entro do perfil do usuário.
+- Navegação pela NavBar de mídias recomendadas dentro do perfil do usuário.
 - Verificar funcionalidade do fórum.
-- Buscar algo na aba de pesquisas.
+- Busca na aba de pesquisas.
 - Verificar a funcionalidade dos cabeçalhos de cada página.
+- Seleção de categorias na aba da língua
 
 > Apresente os cenários de testes utilizados na realização dos testes da
 > sua aplicação. Escolha cenários de testes que demonstrem os requisitos
