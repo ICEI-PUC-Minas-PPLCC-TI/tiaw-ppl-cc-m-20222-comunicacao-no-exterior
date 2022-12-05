@@ -266,6 +266,7 @@ etiquetas:
 # Projeto da Solução
 
   Para solucionar o problema apresentado, criamos um site com o intuito de facilitar o aprendizado de linguagens, trazendo ao usuário maior interação com determinada língua e até um pouco da cultura que a envolve.
+  Nossa aplicação consiste em páginas Web dinâmicas de conteúdo de vocabulário em diversas línguas, um fórum na página de cada língua para que haja interação entre os usuários que aprendem tal idioma, perfil editável e busca de categorias.
 
 ## Tecnologias Utilizadas
 
@@ -293,9 +294,9 @@ etiquetas:
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
 > 
+> **Exemplo do diagrama de Arquitetura**:
 > 
-> 
-> ![Diagrama da solução](images/arquitetura-exemplo.png)
+> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
 
 
 # Avaliação da Aplicação
