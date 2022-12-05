@@ -265,11 +265,11 @@ etiquetas:
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  Para solucionar o problema apresentado, criamos um site com o intuito de facilitar o aprendizado de linguagens, trazendo ao usuário maior interação com determinada língua e até um pouco da cultura que a envolve.
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  Para a construção do site, usamos HTML para a estruturação das páginas, CSS para customização e estilização e JavaScript para as funcionalidades. Usamos o Local Storage para armazenamento dos dados (JSON) e Bootstrap para alguns componentes.
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
@@ -298,7 +298,12 @@ etiquetas:
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  Os cenários utilizados para testes foram: 
+- Verificar se, após inseridas informações na página de edição de perfil, elas salvam e aparecem corretas na página do perfil. 
+- Navegação pela NavBar de mídias recomendadas entro do perfil do usuário.
+- Verificar funcionalidade do fórum.
+- Buscar algo na aba de pesquisas.
+- Verificar a funcionalidade dos cabeçalhos de cada página.
 
 > Apresente os cenários de testes utilizados na realização dos testes da
 > sua aplicação. Escolha cenários de testes que demonstrem os requisitos
