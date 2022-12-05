@@ -288,7 +288,8 @@ etiquetas:
 
 ## Arquitetura da solução
 
-> A solução se baseia no Home-Page, um index que se conecta com a seleção de 
+> A solução se baseia em uma Home-Page, um index que contém a seleção de línguas para o site e, dessa seleção, se apresenta uma nova aba para as categorias da língua previamente selecionada, com dinâmica JavaScript implementada. O usuário pode clicar em uma dessas categorias e ler um artigo, com apoio de imagens e texto, para um aprendizado maior no tópico escolhido. Além da seleção de categorias dentro da língua, a página apresenta um link para o fórum de discussão. Neste fórum, o usuário pode realizar um post, comentar o post de outro usuário ou mesmo curtir outro post, com suporte JSON e JavaScript.
+> Além disto, o usuário, na Home-Page, poderá clicar na aba do Perfil, editar seu perfil, com nome, email, etc. Além de uma aba para a personalização de sua recomendação de mídias em diversas línguas. Tudo com estrutura JSON e JavaScript.
 > 
 > 
 > 
@@ -304,10 +305,6 @@ etiquetas:
 - Busca na aba de pesquisas.
 - Verificar a funcionalidade dos cabeçalhos de cada página.
 - Seleção de categorias na aba da língua
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
 
 ## Plano de Testes
 
