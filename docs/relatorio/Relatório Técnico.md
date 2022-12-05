@@ -266,12 +266,15 @@ etiquetas:
 # Projeto da Solução
 
   Para solucionar o problema apresentado, criamos um site com o intuito de facilitar o aprendizado de linguagens, trazendo ao usuário maior interação com determinada língua e até um pouco da cultura que a envolve.
+  
   Nossa aplicação consiste em páginas Web dinâmicas de conteúdo de vocabulário em diversas línguas, um fórum na página de cada língua para que haja interação entre os usuários que aprendem tal idioma, perfil editável e busca de categorias.
 
 ## Tecnologias Utilizadas
 
   Para a construção do site, usamos HTML para a estruturação das páginas, CSS para customização e estilização e JavaScript para as funcionalidades. Usamos o Local Storage para armazenamento dos dados (JSON) e Bootstrap para alguns componentes.
+  
   Continuamos usando a framework SCRUM ao longo do projeto.
+  
   As ferramentas usadas foram replit para organização, github como repositório, visual studio code como ferramenta de desenvolvimento.
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
