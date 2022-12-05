@@ -293,9 +293,9 @@ etiquetas:
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
 > 
-> **Exemplo do diagrama de Arquitetura**:
 > 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+> 
+> ![Diagrama da solução](images/arquitetura-exemplo.png)
 
 
 # Avaliação da Aplicação
