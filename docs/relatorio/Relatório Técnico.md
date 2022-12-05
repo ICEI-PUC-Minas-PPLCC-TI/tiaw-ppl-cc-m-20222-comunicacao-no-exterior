@@ -260,8 +260,6 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-# **############## SPRINT 1 ACABA AQUI #############**
-
 
 # Projeto da Solução
 
@@ -272,19 +270,6 @@ etiquetas:
   Para a construção do site, usamos HTML para a estruturação das páginas, CSS para customização e estilização e JavaScript para as funcionalidades. Usamos o Local Storage para armazenamento dos dados (JSON) e Bootstrap para alguns componentes.
   Continuamos usando a framework SCRUM ao longo do projeto.
   As ferramentas usadas foram replit para organização, github como repositório, visual studio code como ferramenta de desenvolvimento.
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
 
 ## Arquitetura da solução
 
