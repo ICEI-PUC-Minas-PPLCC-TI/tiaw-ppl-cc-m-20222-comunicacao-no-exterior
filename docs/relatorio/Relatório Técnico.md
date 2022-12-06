@@ -300,15 +300,7 @@ etiquetas:
 
 ## Registros de Testes
 
-
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
+  Realizados os testes, há uma necessidade de integração de páginas de perfil individuais no fórum, edição de recomendação de mídias e login no sistema. O grupo pretende alterar o site na medida em que a interação de usuários não seja feita de forma eficiente.
 
 # Referências
 
